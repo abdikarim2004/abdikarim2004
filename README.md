@@ -8,7 +8,7 @@ Recent software developer and now serving in the finnish defense force as a deve
 
 * 🌍  I'm based in Turku
 * ✉️  You can contact me at [abdikarim\_mohamud@hotmail.com](mailto:abdikarim_mohamud@hotmail.com)
-* 🧠  I'm learning JavaScript and SQF
+* 🧠  I'm currently learning JavaScript and SQF
 
 ### Skills
 
