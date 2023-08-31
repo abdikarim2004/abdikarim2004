@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdikarim Mohamud
-=========================================================================================================================================
+Hi 👋 My name is Abdikarim Mohamud
+==================================
 
 Software Developer
 ------------------
@@ -8,7 +8,7 @@ Recent software developer and now serving in the finnish defense force as a deve
 
 * 🌍  I'm based in Turku
 * ✉️  You can contact me at [abdikarim\_mohamud@hotmail.com](mailto:abdikarim_mohamud@hotmail.com)
-* 🧠  I'm currently learning JavaScript and SQF
+* 🧠  I'm learning JavaScript and SQF
 
 ### Skills
 
