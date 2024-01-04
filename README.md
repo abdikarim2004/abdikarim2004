@@ -7,8 +7,8 @@ Software Developer
 Recent software developer and now serving in the finnish defense force as a developer. Studied front-end development and now started learning JavaScript and SQF to improve VBS4.
 
 * 🌍  I'm based in Turku
-* ✉️  You can contact me at [abdikarim\_mohamud@hotmail.com](mailto:abdikarim_mohamud@hotmail.com)
-* 🧠  I'm learning JavaScript and SQF
+* ✉️  You can contact me through Discord (karimm04)
+* 🧠  I'm currently learning JavaScript and SQF
 
 ### Skills
 
