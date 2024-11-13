@@ -4,13 +4,12 @@ Hi 👋 My name is Abdikarim Mohamud
 ICT Engineering Student.
 ------------------------
 
-I am an ICT Engineering Student, about to start university at the end of August. I recently completed my mandatory military service as a software developer.
+I am an ICT Engineering student at Turku University of Applied Sciences.
 
 * 🌍  I'm based in Turku
 * 🖥️  See my portfolio at [karimmohamud.dev](http://karimmohamud.dev)
 * ✉️  You can contact me at [abdikarim\_mohamud@hotmail.com](mailto:abdikarim_mohamud@hotmail.com)
-* 🧠  I'm learning Full-stack development by building variety of projects before school starts
-* 🤝  I'm open to collaborating on website related projects.
+* 🧠  I'm learning Full-stack development by building projects in school and in my free time.
 
 ### Skills
 
