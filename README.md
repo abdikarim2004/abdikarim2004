@@ -7,9 +7,10 @@ ICT Engineering Student.
 I am an ICT Engineering student at Turku University of Applied Sciences.
 
 * 🌍  I'm based in Turku
-* 🖥️  See my portfolio at [karimmohamud.dev](http://karimmohamud.dev)
+* 🖥️  My portfolio is in development
 * ✉️  You can contact me at [abdikarim\_mohamud@hotmail.com](mailto:abdikarim_mohamud@hotmail.com)
 * 🧠  I'm learning Full-stack development by building projects in school and in my free time.
+* 👀  Searching for an internsip in 2025
 
 ### Skills
 
